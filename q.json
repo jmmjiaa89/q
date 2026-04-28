@@ -1,0 +1,12 @@
+{
+  "Settings": {
+    "baseUrl": "https://mine.qubic.li/",
+    "amountOfThreads": 1,
+    "payoutId": null,
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6ImUwNDUwZTdmLWQ0OGEtNDkwYy1hZTg3LWQyMDhhODM0ZGE2MSIsIk1pbmluZyI6IiIsIm5iZiI6MTc3NzM4NDQzMiwiZXhwIjoxODA4OTIwNDMyLCJpYXQiOjE3NzczODQ0MzIsImlzcyI6Imh0dHBzOi8vcXViaWMubGkvIiwiYXVkIjoiaHR0cHM6Ly9xdWJpYy5saS8ifQ.BGDBGF9ihBfvAwZlU3mhUA2zob4-zpGD6qP2h7-QXq0pPnEgt4OnYo8D9UlckE4--WWtSesCQ82JpL2D6wTXC5SxcTVO0fGwMqa2LPeutk7SxF35a7pP7whZnzOcYO0Om-3mEyxRxFf-aExQSL9IzmoZSzppvjEFQmpSFEpyZ7cNSio295_FhFUd3WLz9w2FCiraV63ZSNKklC4H8WKi-f7IqcK_Z8tho_Rr_YfEGy73db4o59aLHpe2YZboGtn_GtPAiVNycCaUMqR2ktRd4AozwsunHpmy17LWxyAcxy8J39pdH4fcoP4bbrUQorCjX4L2dzO9kUrbPSBcCVrFgA",
+    "alias": "Qubic",
+    "trainerBinary": "qli-runner",
+    "trainer": {"cpu": true, "cpuVersion": "AVX512"},
+    "checkUpdateEnabled": false
+  }
+}
